@@ -1,1 +1,1 @@
-PHP Class to parse OCR data files from the Swedish Bank Giro Central. Imput datafile from BGC of payments done to a specific account and get data out in a PHP Array.
+PHP Class to parse OCR data files from the Swedish Bank Giro Central. Input datafile from BGC of payments done to a specific account and get data out in a PHP Array.
